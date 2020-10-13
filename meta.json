@@ -1,0 +1,14 @@
+[
+  {
+    "prefix": "dataset",
+    "index": "date",
+    "metrics": ["tag_count","image_count","latest_images","arm_images","arm64_images","ppc64le_images","x386_images","amd64_images","s390x_images","linux_images","windows_images"],
+    "props": []
+  },
+  {
+    "prefix": "some",
+    "index": "function",
+    "metrics": ["stars","watchers","forks"],
+    "props": ["language"]
+  }
+]
